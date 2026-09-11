@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Moulik 👋
 
-<!--
-**moulik2901/moulik2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and aspiring AI/ML & Backend Engineer interested in building practical, production-oriented systems.
 
-Here are some ideas to get you started:
+🔭 Currently working on Generative AI, Machine Learning, Deep Learning & Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring RAG, LLMs, Ollama, AI Agents, Transformers, Vector Databases & AI APIs
+
+💻 Building with Python, Java, Spring Boot, SQL, REST APIs and Docker
+
+🧠 Learning by building real-world projects and understanding the theory behind them.
+
+🚀 Interested in AI Engineering, Backend Systems, LLM Applications and scalable software
+
+📚 Currently strengthening my foundations in ML → Deep Learning → Transformers → Generative AI
+
+Tech I'm Working With
+
+Languages: Python, Java, SQL
+AI/ML: Machine Learning, Deep Learning, NLP, Generative AI, RAG, Transformers
+LLM Stack: Ollama, LLM APIs, Embeddings, Vector Databases
+Backend: Spring Boot, Spring Security, REST APIs, JWT
+Tools: Git, GitHub, Docker, Jupyter Notebook
+
+«Building. Learning. Experimenting. Breaking things. Fixing them. 🔧»
